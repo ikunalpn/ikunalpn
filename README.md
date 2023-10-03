@@ -4,7 +4,7 @@
 
 Hello there! 👋 I'm Kunal, a passionate software engineer with a knack for creating clean, efficient code and a love for projects. I'm always eager to learn and collaborate with like-minded individuals.
 
-![Profile Image](https://drive.google.com/file/d/1wHnSYDAvwg-pis-_5_jMFBnkw-3Yl6sp/view?usp=sharing)
+![Profile Image](https://photos.google.com/u/3/search/_cAF1QipOihEuYObzkNhLwWxAFvY96Mh9TLs0~upas_Kunal%20Pandhare/photo/AF1QipNMw_2UkdsMYRh59d05HzvNyNJDIGOC7dL3aQp5)
 
 ## 🔧 Technologies & Tools
 
