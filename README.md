@@ -4,7 +4,7 @@
 
 Hello there! 👋 I'm Kunal, a passionate software engineer with a knack for creating clean, efficient code and a love for projects. I'm always eager to learn and collaborate with like-minded individuals.
 
-![Profile Image](https://pbs.twimg.com/media/F7h8v2IbcAISLrC?format=jpg&name=4096x4096)
+![Profile Image](https://pbs.twimg.com/media/F8QKHCia0AAwH56?format=jpg&name=medium)
 
 ## 🔧 Technologies & Tools
 
