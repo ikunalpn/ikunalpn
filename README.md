@@ -8,9 +8,9 @@ Hello there! 👋 I'm Kunal, a passionate software engineer with a knack for cre
 
 ## 🔧 Technologies & Tools
 
-- 💻 Java, Python
-- 🌐 HTML, CSS
-- 🚀 Django
+- 💻 Python, Java
+- 🌐 HTML, CSS, JS
+- 🚀 ReactJS
 - 🗃️ SQL
 - ⚙️ Git, GitHub Actions
 
